@@ -1,6 +1,6 @@
 venv/
 .env
 logs/
- AI_TRAVEL_AGENT.egg-info/
+AI_TRAVEL_AGENT.egg-info/
 
 
